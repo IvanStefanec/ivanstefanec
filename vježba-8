@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="Ivan Štefanec">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>Vježba 9</title>
+    <style>
+        div{
+            text-align:center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="div">
+        <p>
+            <b>Probni tekst</b> do it <span style="color:red;"> iz predmeta web.</span>
+            Test pisanja 2
+            Test pisanja 3
+        </p>
+        <p>
+            <b>Drugi tekst</b> za probu iz predmeta web<span style="color:red;"> testirao </span> Ivan Štefanec.
+        </p>
+    </div>
+    <hr>
+    <div class="div">
+
+<p>
+    <p><b>Zadnji</b> test <span style="color:red;">iz predmeta web</span> od Ivana Štefanec-a.</p>
+    <p> Drugi <b>dio</b> je ovdje <span style="color:red;">završio.</span></p>
+</p>
+
+
+    </div>
+</body>
+
+</html>

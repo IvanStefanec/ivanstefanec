@@ -27,7 +27,7 @@ iframe {
 
 <div class="video">
 <video width="820" height="440" controls autoplay muted>
-<source src="DINA" type="video/mp4">Your browser does not support the video tag.
+<source src="DINA.mp4" type="video/mp4">Your browser does not support the video tag.
 </video>
 </div>
 <br>

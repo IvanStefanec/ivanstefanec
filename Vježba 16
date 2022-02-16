@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Document</title>
+    <style>
+
+
+
+h1 {
+    font-family:Verdana,Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:24px;
+    }
+p {
+    font-family:Verdana,Helvetica,sans-serif;
+    font-size:12px;
+}
+
+
+
+img {
+    float:left;
+    width:300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-right:1%;
+}
+video {
+    margin-top:10px;
+    width:100%;
+}
+
+
+    </style>
+</head>
+<body>
+    <h1>Iphone 13 pro max</h1>
+    <img src="iPhone_13_Pro_Max.jpg">
+    <p>Najnapredniji sustav kamera do sada na iPhone-u, Super Retina XDR displej, veliki skok u trajanju baterije, A15 Bionic najbrži čip u mobitelima ikad, napredno 5G iskustvo i još mnogo toga</p>
+    <p>Apple je danas predstavio iPhone 13 Pro i iPhone 13 Pro Max, pomičući granice mogućnosti na pametnim telefonima. Redizajnirani iznutra i izvana, oba modela koriste novi Super Retina XDR displej sa ProMotion-om koji donosi prilagodljivo vrijeme odaziva ekrana do 120Hz, što čini iskustvo korištenja puno glađim i responzivnijim. Sustav profesionalnih kamera dodatno je unaprijeđen s Ultra Wide, Wide i Telephoto kamerama koje snimaju zadivljujuće fotografije i video zapise, pogonjene nenadmašnom izvedbom A15 Bionic procesorom.Ove tehnologije omogućuju impresivne nove mogućnosti fotografiranja koje prije nisu bile moguće na iPhoneu, poput makro fotografije na novoj Ultra Wide kameri i do 2,2x poboljšane performanse pri slabom osvjetljenju na novoj Wide kameri. Nove značajke računalne fotografije poput Fotografskih stilova personaliziraju izgled slika u aplikaciji Kamera, a oba modela sada uključuju noćni način rada na svim kamerama. Videozapis čini veliki skok naprijed s kinematografskim načinom rada za prekrasne prijelaze dubinske oštrine, makro video zapise, ubrzane snimke i slo-mo, te još bolje performanse pri slabom osvjetljenju. Oba modela također nude end-to-end profesionalne tijekove rada u Dolby Visionu, a po prvi put, ProRes, dostupan je samo na iPhoneu. iPhone 13 Pro i iPhone 13 Pro Max također uključuju 5G s više opsega za bolju pokrivenost, velika poboljšanja trajanja baterije za najbolje najbolji vijek trajanja baterije na iPhoneu s iPhoneom 13 Pro Max, novim kapacitetom skladištenja od 1 TB i prednjim poklopcem od keramičkog štita, čvršće od bilo kojeg stakla pametnog telefona. </p>
+<video src="iPhone 13 Pro (Max) - Recenzija!.mp4" controls autoplay></video>
+</body>
+</html>
